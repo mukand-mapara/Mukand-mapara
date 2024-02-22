@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/Mukand Kirshana/" title="Mukand Kirshana" rel="nofollow"><img src="https://camo.githubusercontent.com/0e286aa5bed79cfc6e2029d50f215531455847ec4046c9df33438cd2e9023950/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d74696c652e737667" alt="LinkedIn" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mukand-kirshana-1a180125b/" title="Mukand Kirshana" rel="nofollow"><img src="https://camo.githubusercontent.com/0e286aa5bed79cfc6e2029d50f215531455847ec4046c9df33438cd2e9023950/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d74696c652e737667" alt="LinkedIn" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
