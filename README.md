@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 Front-end developer specializing in **react js**, building dynamic and responsive web applications.
 
 - 📫 How to reach me **mukandkirshana1606@gmail.com**
 
