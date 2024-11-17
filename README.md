@@ -1,3 +1,6 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20mukand-mapara%20‍💻
+
+
 <h1 align="center">Hi 👋, I'm Mukand Kirshana</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
