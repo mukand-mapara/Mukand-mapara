@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Mukand%20Mapara%20‍💻&desc=Front-End%20Developer%20|%20React%20JS&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
-<h3 align="center" style="margin-top: -30px;">A passionate developer from Pakistan</h3>
+<h3 align="center" style="margin-top: -30px;">A passionate Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
