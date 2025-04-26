@@ -19,44 +19,55 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- Frontend Basics -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<a href="https://www.loopple.com/img/tailwind-logo.png" target="_blank" rel="noreferrer">
-  <img src="https://www.loopple.com/img/tailwind-logo.png" alt="TailwindCSS" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkJAlv21TMO3DAaVUC-IdGWrjFLTTLsxbwA&s" alt="Bootstrap" width="40" height="40"/>
-</a>
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.loopple.com/img/tailwind-logo.png" target="_blank" rel="noreferrer">
+    <img src="https://www.loopple.com/img/tailwind-logo.png" alt="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkJAlv21TMO3DAaVUC-IdGWrjFLTTLsxbwA&s" alt="Bootstrap" width="40" height="40"/>
+  </a>
 
-<!-- JavaScript & Related -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
-</a>
+  <!-- JavaScript / TypeScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
+  </a>
 
-<!-- React Ecosystem -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZD7gtOg-aRXiYZ_ZkmYGch46UxHAygL-Pw&s" alt="Next.js" width="40" height="40"/>
-</a>
+  <!-- React Ecosystem -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZD7gtOg-aRXiYZ_ZkmYGch46UxHAygL-Pw&s" alt="Next.js" width="40" height="40"/>
+  </a>
 
-<!-- Backend / Services -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="40" height="40"/>
-</a>
-
+  <!-- Backend / Tools -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://docs.npmjs.com/cli/v9/commands/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pint0txCUsD4snv8E5pfO79DBePhXAfW5w&s" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7nf-Zbr_A3Ag1wezt_x-DFuXwKf-1MllgQ&s" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/docs/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrGKuwRNlLxrqZ3xl4U_Jlfi5IHE_U_ADSg&s" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/resources/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Windows_icon_logo.png" alt="windows" width="40" height="40"/>
+  </a>
 
 
 
