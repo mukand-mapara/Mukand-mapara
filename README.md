@@ -59,9 +59,6 @@
   <a href="https://docs.npmjs.com/cli/v9/commands/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pint0txCUsD4snv8E5pfO79DBePhXAfW5w&s" alt="npm" width="40" height="40"/>
   </a>
-  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7nf-Zbr_A3Ag1wezt_x-DFuXwKf-1MllgQ&s" alt="AWS" width="40" height="40"/>
-  </a>
   <a href="https://code.visualstudio.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrGKuwRNlLxrqZ3xl4U_Jlfi5IHE_U_ADSg&s" alt="VS Code" width="40" height="40"/>
   </a>
