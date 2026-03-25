@@ -1,4 +1,4 @@
-# Mukand Mapara | Frontend Developer (React.js | Next.js | TypeScript)
+# Mukand Mapara | Frontend Developer
 
 Mukand Mapara is a Frontend Developer specializing in React.js, Next.js, TypeScript, and building scalable, high-performance web applications.
 
