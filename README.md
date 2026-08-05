@@ -9,7 +9,7 @@ Mukand Mapara is a Frontend Developer specializing in React.js, Next.js, TypeScr
 Hi, I'm **Mukand Mapara**, a passionate **Frontend Developer** specializing in **React.js** and modern web technologies.  
 I build dynamic and responsive web applications that focus on great user experience.
 
----
+--- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukand1303&label=Profile%20views&color=0e75b6&style=flat" alt="mukand1303" /> </p>
 
