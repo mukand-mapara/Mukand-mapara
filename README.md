@@ -23,8 +23,6 @@ I build dynamic and responsive web applications that focus on great user experie
 
 - 📫 How to reach me: **mukandkirshana1606@gmail.com**
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Firebase**
-
 ---
 
 ### Connect with me:
