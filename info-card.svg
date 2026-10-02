@@ -1,0 +1,392 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="520"
+height="430"
+viewBox="0 0 520 430">
+
+<rect
+    width="100%"
+    height="100%"
+    rx="10"
+    fill="#0d1117"
+    stroke="#30363d"
+/>
+
+<circle cx="18" cy="18" r="4" fill="#8b949e"/>
+<circle cx="32" cy="18" r="4" fill="#8b949e"/>
+<circle cx="46" cy="18" r="4" fill="#8b949e"/>
+
+<text
+    x="64"
+    y="22"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="11"
+>
+neofetch
+</text>
+
+<text
+    x="22"
+    y="54"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-weight="bold"
+    font-size="15"
+>
+mukand-mapara@github
+</text>
+
+<line
+    x1="22"
+    y1="65"
+    x2="490"
+    y2="65"
+    stroke="#30363d"
+/>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.15s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="92"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Name:</text>
+
+    <text
+        x="115"
+        y="92"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Mukand Mapara</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.27s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="120"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Role:</text>
+
+    <text
+        x="115"
+        y="120"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Frontend Developer</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.39s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="148"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Focus:</text>
+
+    <text
+        x="115"
+        y="148"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Scalable, high-performance web apps</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.51s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="176"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Frontend:</text>
+
+    <text
+        x="115"
+        y="176"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >React.js / Next.js / TypeScript</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.63s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="204"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Styling:</text>
+
+    <text
+        x="115"
+        y="204"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Tailwind CSS / Bootstrap / CSS3</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.75s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="232"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >State:</text>
+
+    <text
+        x="115"
+        y="232"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Redux</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.87s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="260"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Backend:</text>
+
+    <text
+        x="115"
+        y="260"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Firebase</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="0.99s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="288"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Tools:</text>
+
+    <text
+        x="115"
+        y="288"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >Git / GitHub / npm / VS Code</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="1.11s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="316"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Portfolio:</text>
+
+    <text
+        x="115"
+        y="316"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >mukand-mapara.vercel.app</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="1.23s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="344"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >LinkedIn:</text>
+
+    <text
+        x="115"
+        y="344"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >linkedin.com/in/mukand-kirshana</text>
+</g>
+
+
+<g opacity="0">
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="0.25s"
+        begin="1.35s"
+        fill="freeze"
+    />
+
+    <text
+        x="22"
+        y="372"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="12"
+        font-weight="bold"
+    >Email:</text>
+
+    <text
+        x="115"
+        y="372"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="12"
+    >mukandkirshana1606@gmail.com</text>
+</g>
+
+
+<text
+    x="22"
+    y="410"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="12"
+>
+$
+</text>
+
+<rect
+    x="34"
+    y="399"
+    width="7"
+    height="13"
+    fill="#c9d1d9"
+>
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"
+    />
+</rect>
+
+</svg>
